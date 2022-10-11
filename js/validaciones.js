@@ -48,11 +48,11 @@ const mensajesDeError = {
   },
   ciudad: {
     valueMissing: "Este campo no puede estar vacío",
-    patternMismatch: "La ciudad debe contener entre 10 a 40 caracteres.",
+    patternMismatch: "La ciudad debe contener entre 04 a 30 caracteres.",
   },
-  estado: {
+  provincia: {
     valueMissing: "Este campo no puede estar vacío",
-    patternMismatch: "El estado debe contener entre 10 a 40 caracteres.",
+    patternMismatch: "La Provincia debe contener entre 04 a 3git0 caracteres.",
   },
 };
 
